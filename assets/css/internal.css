@@ -24,7 +24,6 @@
   justify-content: center;
   align-items: center;
   position: fixed;
-  /* padding-right: 50px; */
   left: 0;
   top: 0;
   z-index: 1;
@@ -40,7 +39,6 @@
 }
 
 .s-wrapper .s-main-content__top {
-  /* height: 100%; */
   height: 80vh;
   display: flex;
   flex-direction: column;
@@ -84,7 +82,6 @@
 
 .s-wrapper .s-main-content .s-links ul{
   display: flex;
-  /* flex-direction: row; */
 }
 
 .s-spiderman-01-01 {
